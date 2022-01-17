@@ -1,4 +1,4 @@
-# accordion
+# FQ
 
 ## Project setup
 ```
